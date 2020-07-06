@@ -36,10 +36,12 @@ const book = {};
 book.apple = 12;
 book.banana = 14;
 book.kiwi = 18;
-console.log(book['kiwi']);
+console.log(book["kiwi"]);
 
-import _ from 'lodash'
-console.log(_.capitalize('hello'));
-let name = 'igor';
-let name = 'igor'
+import _ from "lodash";
+console.log(_.capitalize("hello"));
+let name = "igor";
+let name = "igor";
+
+let do = "smth";
 

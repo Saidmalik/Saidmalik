@@ -31,17 +31,13 @@ for (let i = 1; i < arr.length; i += 1) {
 console.log(quickSort([10, 5, 2, 3, 3]))
 
 */
-
+/*
 const book = {};
 book.apple = 12;
 book.banana = 14;
 book.kiwi = 18;
-console.log(book["kiwi"]);
-
-import _ from "lodash";
-console.log(_.capitalize("hello"));
-let name = "igor";
-let name = "igor";
-
-let do = "smth";
-
+console.log(book['kiwi']);
+*//*
+import _ from 'lodash';
+console.log(_.capitalize('hello'));
+*/

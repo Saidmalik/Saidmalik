@@ -16,7 +16,9 @@
     "jest": "^26.1.0"
   },
   "scripts": {
-    "build": "babel src -d dist --source-maps"
+    "test": "jest",
+    "build": "babel src -d dist --source-maps",
+    "watch": "babel src -d dist --source-maps -w"
   },
   "author": "",
   "license": "ISC"

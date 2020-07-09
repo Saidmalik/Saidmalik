@@ -1,0 +1,12 @@
+#article-font {
+  color: blue;
+}
+#box2 {
+    width: 100px;
+    height: 70px;
+    border-top: 8px solid #001f3f;
+    margin-left: 15px;
+    margin-top: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+  }

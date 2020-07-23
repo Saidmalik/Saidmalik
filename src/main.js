@@ -1,6 +1,4 @@
-const defaultState = { channels: {}, messages: {} };
-let state = { ...defaultState };
-
-export default router => router.put('refresh', '/refresh', async (ctx) => {
-  state = { ...defaultState };
-});
+const reverse = (str) => {
+    return str.split('').reverse().join('');
+};
+module.exports = { reverse };

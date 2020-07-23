@@ -13,7 +13,10 @@
     "@babel/node": "^7.10.4",
     "@babel/preset-env": "^7.10.4",
     "eslint": "^7.4.0",
-    "jest": "^26.1.0"
+    "intelli-espower-loader": "^1.0.1",
+    "jest": "^26.1.0",
+    "mocha": "^8.0.1",
+    "power-assert": "^1.6.1"
   },
   "scripts": {
     "test": "jest",

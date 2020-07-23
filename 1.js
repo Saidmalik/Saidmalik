@@ -58,3 +58,5 @@ const fruitsCounter = (fruits) => {
 };
 console.log(capitalize('sam'));
 */
+
+const something = 'sdfs';
